@@ -1,16 +1,4 @@
-# spin_the_bottle
+# Spin the Bottle Using Flutter 
+This was my first attempt in adding animation to an app using flutter Desktop :P
+needs a lot of fixes so feel free to contribute
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
